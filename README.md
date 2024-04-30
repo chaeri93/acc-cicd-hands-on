@@ -1,2 +1,2 @@
 # acc-cicd-hands-on
-AWS Cloud Clubs Ewha Handson - CI/CD 
+AWS Cloud Clubs Ewha Handson - CI/CD
